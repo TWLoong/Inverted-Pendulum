@@ -1,2 +1,1 @@
-# Inverted-Pendulum
-基于江协科技的STM32倒立摆项目
+# 基于江协科技的STM32倒立摆项目
